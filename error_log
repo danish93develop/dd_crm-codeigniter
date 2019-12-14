@@ -1,0 +1,6 @@
+[03-Dec-2019 08:20:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ddev60/public_html/dd_crm/application/controllers/Campaign.php on line 48
+[04-Dec-2019 12:16:51 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ddev60/public_html/dd_crm/application/views/campaign/influencer_list.php on line 4
+[04-Dec-2019 13:06:14 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/ddev60/public_html/dd_crm/application/controllers/Campaign.php on line 143
+[04-Dec-2019 13:06:18 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/ddev60/public_html/dd_crm/application/controllers/Campaign.php on line 143
+[05-Dec-2019 10:13:33 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ddev60/public_html/dd_crm/application/views/campaign/edit_campaign.php on line 35
+[05-Dec-2019 10:14:16 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ddev60/public_html/dd_crm/application/views/campaign/edit_campaign.php on line 35
